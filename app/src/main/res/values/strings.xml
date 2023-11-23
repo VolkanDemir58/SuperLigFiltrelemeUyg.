@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Süper Lig Takımları</string>
+
+        <string-array name="super_lig_teams">
+            <item>Galatasaray</item>
+            <item>Beşiktaş</item>
+            <item>Fenerbahçe</item>
+            <item>Trabzonspor</item>
+            <item>Başakşehir</item>
+            <item>Adana Demir</item>
+            <item>Alanyaspor</item>
+            <item>Konyaspor</item>
+            <item>Antalyaspor</item>
+            <item>Hatayspor</item>
+            <item>Gaziantep FK</item>
+            <item>Kayserispor</item>
+            <item>İstanbulSpor</item>
+            <item>Sivasspor</item>
+            <item>Karagümrük</item>
+            <item>Giresunspor</item>
+            <item>ÜmraniyeSpor</item>
+            <item>Kasımpaşa</item>
+            <item>MKE Ankaragücü</item>
+        </string-array>
+
+
+</resources>
